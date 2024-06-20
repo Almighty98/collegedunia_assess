@@ -1,0 +1,252 @@
+[
+  {
+    "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "approved_by": ["AICTE"],
+    "cd_rank": 1,
+    "course": {
+      "name": "BE/B.Tech",
+      "fees": 214500,
+      "isTotalFees": false
+    },
+    "placement": {
+      "average": 2148000,
+      "highest": 19800000
+    },
+    "reviews": {
+      "users": 354,
+      "rating": 4.2
+    },
+    "ranking": {
+      "at": 227,
+      "from": 1400,
+      "year": 2025
+    },
+    "featured": false
+  },
+  {
+    "name": "IIMA - Indian Institute of Management, Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "approved_by": ["UGC"],
+    "cd_rank": 2,
+    "course": {
+      "name": "MBA/PGDM",
+      "fees": 2500000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3436000,
+      "highest": 11500000
+    },
+    "reviews": {
+      "users": 51,
+      "rating": 4.5
+    },
+    "ranking": {
+      "at": 421,
+      "from": 2000,
+      "year": 2022
+    },
+    "featured": false
+  },
+  {
+    "name": "IIM Bangalore - Indian Institute of Management, Bangalore",
+    "location": "Bangalore, Karnataka   ",
+    "approved_by": ["AICTE", "UGC"],
+    "cd_rank": 3,
+    "course": {
+      "name": "MBA/PGDM",
+      "fees": 2450000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3531000,
+      "highest": 11500000
+    },
+    "reviews": {
+      "users": 76,
+      "rating": 4.6
+    },
+    "ranking": {
+      "at": 1,
+      "from": 50,
+      "year": 2019
+    },
+    "featured": false
+  },
+  {
+    "name": "IIMC - Indian Institute of Management, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "approved_by": ["UGC"],
+    "cd_rank": 4,
+    "course": {
+      "name": "PG Diploma in Management",
+      "fees": 2500000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3507000,
+      "highest": 12000000
+    },
+    "reviews": {
+      "users": 85,
+      "rating": 4.4
+    },
+    "ranking": {
+      "at": 99,
+      "from": 200,
+      "year": 2023
+    },
+    "featured": false
+  },
+  {
+    "name": "IIT Delhi - Indian Institute of Technology [IITD], New Delhi",
+    "location": "New Delhi, Delhi NCR",
+    "approved_by": ["AICTE"],
+    "cd_rank": 5,
+    "course": {
+      "name": "ME/M.Tech",
+      "fees": 190300,
+      "isTotalFees": false
+    },
+    "placement": {
+      "average": 2582000,
+      "highest": 20000000
+    },
+    "reviews": {
+      "users": 549,
+      "rating": 4.3
+    },
+    "ranking": {
+      "at": 150,
+      "from": 1400,
+      "year": 2025
+    },
+    "featured": false
+  },
+  {
+    "name": "XLRI, Jamshedpur",
+    "location": "Jamshedpur, Jharkhand",
+    "approved_by": ["AICTE", "NBA", "AMBA", "AACSB"],
+    "cd_rank": 6,
+    "course": {
+      "name": "MBA/PGDM",
+      "fees": 2420000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3270000,
+      "highest": 11000000
+    },
+    "reviews": {
+      "users": 74,
+      "rating": 4.4
+    },
+    "ranking": {
+      "at": 1392,
+      "from": 2000,
+      "year": 2022
+    },
+    "featured": true
+  },
+  {
+    "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "approved_by": ["AICTE"],
+    "cd_rank": 7,
+    "course": {
+      "name": "BE/B.Tech",
+      "fees": 214500,
+      "isTotalFees": false
+    },
+    "placement": {
+      "average": 2148000,
+      "highest": 19800000
+    },
+    "reviews": {
+      "users": 354,
+      "rating": 4.2
+    },
+    "ranking": {
+      "at": 227,
+      "from": 1400,
+      "year": 2025
+    },
+    "featured": false
+  },
+  {
+    "name": "IIMA - Indian Institute of Management, Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "approved_by": ["UGC"],
+    "cd_rank": 8,
+    "course": {
+      "name": "MBA/PGDM",
+      "fees": 2500000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3436000,
+      "highest": 11500000
+    },
+    "reviews": {
+      "users": 51,
+      "rating": 4.5
+    },
+    "ranking": {
+      "at": 421,
+      "from": 2000,
+      "year": 2022
+    },
+    "featured": false
+  },
+  {
+    "name": "IIM Bangalore - Indian Institute of Management, Bangalore",
+    "location": "Bangalore, Karnataka   ",
+    "approved_by": ["AICTE", "UGC"],
+    "cd_rank": 9,
+    "course": {
+      "name": "MBA/PGDM",
+      "fees": 2450000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3531000,
+      "highest": 11500000
+    },
+    "reviews": {
+      "users": 76,
+      "rating": 4.6
+    },
+    "ranking": {
+      "at": 1,
+      "from": 50,
+      "year": 2019
+    },
+    "featured": false
+  },
+  {
+    "name": "IIMC - Indian Institute of Management, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "approved_by": ["UGC"],
+    "cd_rank": 10,
+    "course": {
+      "name": "PG Diploma in Management",
+      "fees": 2500000,
+      "isTotalFees": true
+    },
+    "placement": {
+      "average": 3507000,
+      "highest": 12000000
+    },
+    "reviews": {
+      "users": 85,
+      "rating": 4.4
+    },
+    "ranking": {
+      "at": 99,
+      "from": 200,
+      "year": 2023
+    },
+    "featured": false
+  }
+]
